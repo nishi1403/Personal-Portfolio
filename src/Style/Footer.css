@@ -1,0 +1,40 @@
+.footer {
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(75, 75, 75));
+  color: white;
+  padding: 2%;
+  width: 100%;
+  font-size: 30px;
+  height: 50vh;
+}
+.footer .foot-left a {
+  text-decoration: none;
+  color: gray;
+}
+.footer .foot-left i:hover {
+  color: white;
+  
+}
+.footer .foot-left {
+  width: 48%;
+  float: left;
+  font-family: "Glass Antiqua", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.footer .foot-left h1 {
+  font-family: "Amaranth", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.footer .foot-right {
+  width: 48%;
+  float: right;
+  text-align: center;
+}
+
+.footer .foot-right img {
+  width: 70%;
+  height: 50vh;
+}
+
+
