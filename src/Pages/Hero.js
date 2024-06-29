@@ -14,7 +14,7 @@ const Hero = () => {
         </h1>
        
           
-          <div class="typewriter">
+          <div className="typewriter">
             <h1>FRONTEND DEVELOPER.</h1>
           </div>
         
