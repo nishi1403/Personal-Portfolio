@@ -1,0 +1,23 @@
+.photos {
+  background-color: rgb(89, 44, 172);
+  color: rgb(255, 214, 160);
+  height: 100%;
+}
+.photos h1 {
+  text-align: center;
+  font-family: "Amaranth", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 4px;
+  font-size: 200%;
+}
+
+.photo-content img {
+  height: 20vh;
+  width: 20vh;
+  gap: 3vh;
+  margin: 5vh;
+  border-radius: 10px 0 10px 0;
+}
+
+
