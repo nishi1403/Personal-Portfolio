@@ -1,7 +1,5 @@
 .hero {
-  background-image: url('../Images/hero8.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: black;
   color: white;
   height: 60vh;
 }

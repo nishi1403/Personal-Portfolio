@@ -1,0 +1,59 @@
+.about .grow img {
+  transition: 1s ease;
+  height: 90%;
+ 
+  width: 50%;
+  border-radius: 15px 0 15px 0;
+  
+}
+.grow{
+    height: 100%;
+ 
+}
+.about {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 100%;
+  background-image: url('../Images/space.png');
+    background-size: contain;
+    background-position: -60pt 60pt ;
+   
+    background-repeat: no-repeat;
+  
+}
+.grow img:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  transition: 1s ease;
+  border-radius: 0 15px 0 15px;
+}
+.about h2 {
+  text-align: center;
+  font-family: "Amaranth", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 4px;
+  font-size: 250%;
+}
+.me-content{
+    font-size: 150%;
+    font-family: "Glass Antiqua", cursive;
+  font-weight: 400;
+  font-style: normal;
+  height: 85%;
+  padding: 4%;
+
+  
+}
+.me-content:hover{
+    background-color:transparent;
+   
+    border-radius: 10px;
+    backdrop-filter: blur(8px);
+}
+.content{
+    
+    height: 100%;
+}

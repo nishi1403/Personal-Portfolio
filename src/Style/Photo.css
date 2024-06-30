@@ -1,5 +1,5 @@
 .photos {
-  background-color: rgb(89, 44, 172);
+  background-color: black;
   color: rgb(255, 214, 160);
   height: 100%;
 }
@@ -19,5 +19,11 @@
   margin: 5vh;
   border-radius: 10px 0 10px 0;
 }
-
+.photo-content img:hover{
+    -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: 1s ease;
+  border-radius: 0 15px 0 15px;
+}
 
