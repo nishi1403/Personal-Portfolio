@@ -15,9 +15,9 @@
   color: white;
   text-align: center;
   height: 100%;
-  background-image: url('../Images/space.png');
-    background-size: contain;
-    background-position: -60pt 60pt ;
+  background-image: url('../Images/ufo.png');
+    background-size: auto;
+    background-position: left ;
    
     background-repeat: no-repeat;
   

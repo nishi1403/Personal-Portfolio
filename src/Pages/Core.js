@@ -6,7 +6,7 @@ const Core = () => {
       <h1>CORE SKILLS</h1>
       <br />
       <div className="core-skill">
-        <div className="container">
+      <div className="container">
           <div className="row">
             <div className="col col-sm-12 col-lg-6">
               <ul className="typing">

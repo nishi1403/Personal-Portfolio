@@ -4,6 +4,10 @@
     color: rgb(255, 214, 160);
     height:100%;
     padding: 5%;
+    background-image: url('../Images/space.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
 
 }
 .core h1{
@@ -23,6 +27,14 @@
     font-family: "Bruno Ace SC", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+.core-skill li:hover{
+  
+    background-color:transparent;
+   
+    border-radius: 10px;
+    backdrop-filter: blur(8px);
+
 }
 
 .typing{

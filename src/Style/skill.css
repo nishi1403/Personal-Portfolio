@@ -1,0 +1,40 @@
+
+
+.skills{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+  
+}
+.skills h1{
+    font-weight: 500;
+  font-style: normal;
+  letter-spacing: 4px;
+  font-size: 300%;
+}
+.skills ul {
+    list-style-type: none;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 2px;
+
+    
+}
+
+.skills li{
+    width: 100%;
+    text-align: left;
+}
+
+
+
+
+.skill-line{
+    width: 100%;
+}
+.skills img{
+    border-radius: 50%;
+    width:40px;
+    height: 40px;
+}

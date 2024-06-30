@@ -1,0 +1,13 @@
+.project{
+    background-color: black;
+    color: aliceblue;
+    height: 40vh;
+}
+.project h1{
+    text-align: center;
+    font-family: "Amaranth", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 4px;
+  font-size: 300%;
+}

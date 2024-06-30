@@ -1,7 +1,11 @@
 .hero {
   background-color: black;
-  color: white;
-  height: 60vh;
+ 
+  
+
+  text-align: center;
+  color: rgb(12, 206, 231);
+  height: 100%;
 }
 
 
@@ -9,14 +13,18 @@
   
   text-align: center;
   padding: 5%;
+
+  
 }
  .hero-content h3 {
   font-family: "Bruno Ace SC", sans-serif;
   font-weight: 400;
+
   font-style: normal;
   letter-spacing: 3px;
   color: rgb(229, 216, 140);
   font-size: 40px;
+ 
 }
  .hero-content h1{
     
@@ -24,6 +32,7 @@
         font-weight: 400;
         font-style: normal;
         font-size: 60px;
+       
       
       
 }
@@ -33,6 +42,7 @@
     font-style: normal;
     font-size: 30px;
     color: rgb(204, 238, 80);
+   
 }
 
 
@@ -42,7 +52,8 @@
 
 /* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
-  color: #fff;
+  color: #af3b3b;
+ 
   font-size:30px;
   font-family: "Barlow", sans-serif;
   font-weight: 500;
@@ -56,6 +67,7 @@
     typing 5s steps(30, end) infinite,
     blink-caret .5s step-end infinite;
 }
+
 
 /* The typing effect */
 @keyframes typing {

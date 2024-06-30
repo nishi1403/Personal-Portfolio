@@ -2,8 +2,8 @@ import React from 'react'
 import '../Style/project.css'
 const Project = () => {
   return (
-    <div>
-      PROJECTS
+    <div className="project">
+      <h1>PROJECTS</h1>
     </div>
   )
 }
