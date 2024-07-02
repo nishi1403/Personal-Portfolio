@@ -23,7 +23,7 @@ const Footer = () => {
       <div className="foot-right">
         <img src={footer} alt="footer" />
       </div>
-       made by @<b>Nishi</b>
+       
     </div>
   );
 };
