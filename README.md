@@ -14,7 +14,7 @@ I'm Nishi Panchal, a student with a passion for Web Development. I'm excited to 
 
 ---
 
-### [Project 1 Name]
+### Portfolio 
 
 - **Description:** A portfolio project to showcase my skills.
 - **Technologies:** HTML,CSS,Bootstrap,React JS
@@ -35,6 +35,6 @@ I'm Nishi Panchal, a student with a passion for Web Development. I'm excited to 
 ---
 
 - **Email:** **nishicoder@gmail.com**
-- **LinkedIn:** <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishi-panchal-a09b64255" target="blank">
-- **Twitter:** <a href="https://twitter.com/nisipanchal1417" target="blank">
-- **GitHub:** <a href="https://github.com/nishi1403">
+- **LinkedIn:** <a> https://linkedin.com/in/https://www.linkedin.com/in/nishi-panchal-a09b64255</a>
+- **Twitter:** <a> https://twitter.com/nisipanchal1417</a>
+- **GitHub:** <a>https://github.com/nishi1403</a>
